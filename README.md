@@ -37,4 +37,4 @@ Each translation looks something like this:
 "TranslationTitle": "Este es el contenido de la traducción, que es la parte que se puede modificar."
 ```
 
-The first translation in each language file is titled "LanguageName," and its value must be the name of the language _in that language_.
+The first translation in each language file is titled "LanguageName" and its value must be the name of the language _in that language_.
